@@ -1,7 +1,13 @@
 
-  # CV Arnaud Salingue - Testeur QA
+  # Mohammad jafariyan khosrowshahi - TSoftware Engineer
 
-  This is a code bundle for CV Arnaud Salingue - Testeur QA. The original project is available at https://www.figma.com/design/z57Egoz0qOLGaiHxTFEIub/CV-Arnaud-Salingue---Testeur-QA.
+  This is a code bundle for CV 
+ Software Engineer (8+ Years) | C# & .NET Core Specialist | Full-Stack: Angular, React, Next.js | Backend & Frontend | WordPress Developer.
+
+
+  
+
+
 
   ## Running the code
 
