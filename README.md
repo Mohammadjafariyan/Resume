@@ -5,7 +5,7 @@
  Software Engineer (8+ Years) | C# & .NET Core Specialist | Full-Stack: Angular, React, Next.js | Backend & Frontend | WordPress Developer.
 
 
-  
+  https://mj-portfolio.ct.ws
 
 
 
